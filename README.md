@@ -135,9 +135,7 @@ The platform provides an intuitive interface for candidates to showcase their sk
 
 ## 🏗️ System Architecture
 
-```
 ![System Architecture](image.png)
-```
 
 ---
 
@@ -364,5 +362,6 @@ Academic use constitutes plagiarism and academic dishonesty.
 **Project Status:** ✅ Completed | 🎓 Graded (HD) | 🔒 Academic Portfolio Only
 
 ---
+
 
 *This project was developed as part of RMIT University's Full Stack Development course, demonstrating proficiency in modern web application development using TypeScript, React, Node.js, and both REST and GraphQL APIs.*
