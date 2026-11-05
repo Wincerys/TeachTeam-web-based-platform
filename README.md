@@ -14,7 +14,7 @@
 **Institution:** RMIT University  
 **Semester:** Semester 1, 2025  
 **Project Type:** Pair Assignment  
-**Grade Received:** High Distinction (HD)  
+**Grade Received:** Distinction (DI)  
 **Status:** ✅ Completed and Graded
 
 ---
@@ -325,7 +325,7 @@ Through this project, I developed expertise in:
 
 **For Employers/Recruiters:**
 
-This project demonstrates my proficiency in modern full-stack development using industry-standard technologies. I successfully implemented a complex multi-user system with separate REST and GraphQL APIs, normalized database design, and responsive React frontends. The project received a High Distinction grade.
+This project demonstrates my proficiency in modern full-stack development using industry-standard technologies. I successfully implemented a complex multi-user system with separate REST and GraphQL APIs, normalized database design, and responsive React frontends. The project received a Distinction grade.
 
 **Jatanjeet Singh**  
 📧 Email: jsgk1056@gmail.com  
@@ -359,7 +359,7 @@ Academic use constitutes plagiarism and academic dishonesty.
 
 ---
 
-**Project Status:** ✅ Completed | 🎓 Graded (HD) | 🔒 Academic Portfolio Only
+**Project Status:** ✅ Completed | 🎓 Graded (DI) | 🔒 Academic Portfolio Only
 
 ---
 
